@@ -29,8 +29,9 @@ return [
     ],
 
     'failed'                => 'Identitas ini tidak cocok dengan data kami.',
-    'disabled'              => 'Akun ini dinonaktifkan. Silahkan, hubungi administrator sistem.',
+    'password'              => 'Kata sandi yang disediakan salah.',
     'throttle'              => 'Terlalu banyak upaya masuk. Silahkan coba lagi dalam :seconds detik.',
+    'disabled'              => 'Akun ini dinonaktifkan. Silahkan, hubungi administrator sistem.',
 
     'notification' => [
         'message_1'     => 'Anda menerima email ini karena kami menerima permintaan pengaturan ulang kata sandi untuk akun Anda.',

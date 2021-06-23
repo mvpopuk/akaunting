@@ -4,7 +4,7 @@ return [
 
     'code'                  => 'Kode',
     'rate'                  => 'Kurs',
-    'default'               => 'Mata Uang Utama',
+    'default'               => 'Mata Uang Default',
     'decimal_mark'          => 'Pemisah Desimal',
     'thousands_separator'   => 'Pemisah Ribuan',
     'precision'             => 'Presisi',

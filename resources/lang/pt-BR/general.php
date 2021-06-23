@@ -51,6 +51,7 @@ return [
     'templates'             => 'Modelo|Modelos',
     'sales'                 => 'Venda|Vendas',
     'purchases'             => 'Compra|Compras',
+    'notifications'         => 'Notificações',
 
     'welcome'               => 'Bem-vindo',
     'banking'               => 'Banco',

@@ -51,6 +51,7 @@ return [
     'templates'             => 'Predložak|Predlošci',
     'sales'                 => 'Prodaja|Prodaje',
     'purchases'             => 'Kupnja|Kupnje',
+    'notifications'         => 'Notifikacija|Notifikacije',
 
     'welcome'               => 'Dobrodošli',
     'banking'               => 'Bankarstvo',

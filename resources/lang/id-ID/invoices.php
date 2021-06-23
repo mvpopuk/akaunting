@@ -17,7 +17,7 @@ return [
     'tax_total'             => 'Total Pajak',
     'total'                 => 'Total',
 
-    'item_name'             => 'Nama Item | Nama Item',
+    'item_name'             => 'Nama Item|Nama Item',
 
     'show_discount'         => 'Diskon :discount%',
     'add_discount'          => 'Tambahkan diskon',

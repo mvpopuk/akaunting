@@ -51,6 +51,7 @@ return [
     'templates'             => 'Skabelon|Skabeloner',
     'sales'                 => 'Salg|Salg',
     'purchases'             => 'Bestilling|Bestillinger',
+    'notifications'         => 'Notifikation|Notifikationer',
 
     'welcome'               => 'Velkommen',
     'banking'               => 'Bank',

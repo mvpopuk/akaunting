@@ -51,6 +51,7 @@ return [
     'templates'             => 'Vorlage|Vorlagen',
     'sales'                 => 'Einnahme|Einnahmen',
     'purchases'             => 'Ausgabe|Ausgaben',
+    'notifications'         => 'Benachrichtigung|Benachrichtigungen',
 
     'welcome'               => 'Willkommen',
     'banking'               => 'Bankwesen',
